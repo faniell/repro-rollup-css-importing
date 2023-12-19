@@ -1,5 +1,5 @@
 # Repro for "Imported CSS stylesheet stays in CSS output after the importing file is tree shaken"
-[Link to issue](#)
+[Link to issue](https://github.com/rollup/rollup/issues/5307)
 
 ## Reproduce
 
