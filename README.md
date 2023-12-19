@@ -4,8 +4,11 @@
 ## Reproduce
 
 > npm install in app, styles, components
+
 > cd app/
+
 > npx rollup -c
+
 > Check  app/build/ for the bundled files.
 
 ## Description of repro
